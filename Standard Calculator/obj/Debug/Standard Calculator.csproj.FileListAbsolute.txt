@@ -1,0 +1,14 @@
+C:\Users\synta\source\repos\Standard Calculator\Standard Calculator\bin\Debug\Standard Calculator.exe.config
+C:\Users\synta\source\repos\Standard Calculator\Standard Calculator\bin\Debug\Standard Calculator.exe
+C:\Users\synta\source\repos\Standard Calculator\Standard Calculator\bin\Debug\Standard Calculator.pdb
+C:\Users\synta\source\repos\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.csproj.AssemblyReference.cache
+C:\Users\synta\source\repos\Standard Calculator\Standard Calculator\obj\Debug\Standard_Calculator.Form1.resources
+C:\Users\synta\source\repos\Standard Calculator\Standard Calculator\obj\Debug\Standard_Calculator.Properties.Resources.resources
+C:\Users\synta\source\repos\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.csproj.GenerateResource.cache
+C:\Users\synta\source\repos\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.csproj.CoreCompileInputs.cache
+C:\Users\synta\source\repos\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.exe
+C:\Users\synta\source\repos\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.pdb
+C:\Users\synta\source\repos\Standard Calculator\Standard Calculator\bin\Debug\Standard Calculator.exe.manifest
+C:\Users\synta\source\repos\Standard Calculator\Standard Calculator\bin\Debug\Standard Calculator.application
+C:\Users\synta\source\repos\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.exe.manifest
+C:\Users\synta\source\repos\Standard Calculator\Standard Calculator\obj\Debug\Standard Calculator.application
